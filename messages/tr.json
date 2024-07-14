@@ -1,0 +1,19 @@
+{
+  "HomePage": {
+    "title": "Hoş Geldiniz!",
+    "subtitle" : "i18n ile dil destekli web sitesi nasıl yapılır?",
+    "description" : "Tüm belgeler burada : https://next-intl-docs.vercel.app/docs/getting-started/app-router/with-i18n-routing",
+    "smile" : "Lütfen okuyun. :)"
+  },
+  "Footer" : {
+    "title" : "© 2024 Tüm Hakları Saklıdır."
+  },
+  "Header" : {
+    "Home" : "Anasayfa",
+    "About" : "Hakkımızda",
+    "Services" : "Hizmetlerimiz",
+    "Contact" : "İletişim",
+    "ClientSupport" : "Müşteri Desteği",
+    "Language" : "Dil"
+  }
+}

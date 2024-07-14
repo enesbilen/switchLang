@@ -1,0 +1,19 @@
+{
+  "HomePage": {
+    "title": "Welcome!",
+    "subtitle" : "How to make a language supported website with i18n?",
+    "description" : "All Documents are here : https://next-intl-docs.vercel.app/docs/getting-started/app-router/with-i18n-routing",
+    "smile" : "Please Read :)"
+  },
+  "Footer" : {
+    "title" : "© 2024 All Rights Reserved."
+  },
+  "Header" : {
+    "Home" : "Home",
+    "About" : "About",
+    "Services" : "Services",
+    "Contact" : "Contact",
+    "ClientSupport" : "Client Support",
+    "Language" : "Language"
+  }
+}
